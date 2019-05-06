@@ -1,17 +1,16 @@
 # MC-Public
 My MC 1.12.2 Forge Server
 
-MC-Public v0.2 
-
-Added Railcraft 12.0.0 [http://www.railcraft.info/]
-
-Updated to Forge 14.23.5.2836  [https://files.minecraftforge.net/]
-
 [Changelog]
 
-MC-Public v0.1
+MC-Public v0.2:
+	
+	Updated to Forge 14.23.5.2836  [https://files.minecraftforge.net/]
+	Updated to OptiFine to 1.12.2_HD_U_E3.jar
+	Removed OptiFine_1.12.2_HD_U_E2.jar
+	Added Railcraft 12.0.0 [http://www.railcraft.info/]
 
-Modlist:
+MC-Public v0.1:
 
  	CodeChickenLib-1.12.2-3.2.2.353-universal.jar
 	ComputerCraft-Mod-1.12.1.jar
