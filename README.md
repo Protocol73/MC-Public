@@ -2,6 +2,10 @@
 My MC 1.12.2 Forge Server
 
 [Changelog]
+MC-Public v0.3:
+
+	Added TinkerToolLeveling-1.12.2-1.1.0.jar
+	Added conarm-1.12.2-1.2.4.jar
 
 MC-Public v0.2:
 	
