@@ -1,7 +1,7 @@
 # MC-Public
 My MC 1.12.2 Forge Server
 
-[Changelog]
+[Changelog]		  
 MC-Public v0.3:
 
 	Added TinkerToolLeveling-1.12.2-1.1.0.jar
